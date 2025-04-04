@@ -1,0 +1,14 @@
+ALGO = Normal
+EDIFF = 1E-5
+ENCUT = 400
+ISIF = 2
+LASPH = .TRUE.
+LCHARG = .FALSE.
+LEPSILON = .TRUE.
+LREAL = .FALSE.
+LWAVE = .FALSE.
+NSW = 0
+PREC = Accurate
+# BEC only makes sense for insulators so elec. smearing not an issue use gaussian
+ISMEAR = 0    
+SIGMA = 0.01
