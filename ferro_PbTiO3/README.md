@@ -6,6 +6,8 @@ finetune_CACE_LR_EFB_by8: fine-tuning script for CACE-LR model with pbe_BEC data
 
 plot_BEC: script for plot the BEC from CACE-LR vs DFPT results.
 
+md: molecular dynamics script for zero-filed (equi) and finite field (field) simulations
+
  
 
 
