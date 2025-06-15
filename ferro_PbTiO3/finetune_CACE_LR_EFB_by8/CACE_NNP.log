@@ -1,0 +1,285 @@
+2025-04-01 01:13:40.675 INFO: CUDA version: 12.4, CUDA device: 0
+2025-04-01 01:13:48.253 INFO: Loaded 354 training configurations from '/home/zhongpc/Project/cace_BEC/ferro_PbTiO3/dataset/pbe_BEC/supercell_222/train_CACE_desc.xyz'
+2025-04-01 01:13:48.253 INFO: Using random 0.0% of training set for validation
+2025-04-01 01:13:49.366 INFO: Loaded 44 training configurations from '/home/zhongpc/Project/cace_BEC/ferro_PbTiO3/dataset/pbe_BEC/supercell_222/val_CACE_desc.xyz'
+2025-04-01 01:13:49.366 INFO: Using random 100.0% of training set for validation
+2025-04-01 01:18:46.486 INFO: ##### Step: 0 Learning rate: 0.0002 #####
+2025-04-01 01:18:46.487 INFO: Epoch 1, Train Loss: 80585.0642, Val Loss: 7154.4138
+2025-04-01 01:18:46.488 INFO: train_e/atom_mae: 0.005535
+2025-04-01 01:18:46.488 INFO: train_e/atom_rmse: 0.008306
+2025-04-01 01:18:46.489 INFO: train_f_mae: 0.054854
+2025-04-01 01:18:46.489 INFO: train_f_rmse: 0.075649
+2025-04-01 01:18:46.490 INFO: train_bec_mae: 0.085065
+2025-04-01 01:18:46.490 INFO: train_bec_rmse: 0.148708
+2025-04-01 01:18:46.491 INFO: val_e/atom_mae: 0.002227
+2025-04-01 01:18:46.491 INFO: val_e/atom_rmse: 0.002454
+2025-04-01 01:18:46.491 INFO: val_f_mae: 0.049908
+2025-04-01 01:18:46.491 INFO: val_f_rmse: 0.085282
+2025-04-01 01:18:46.491 INFO: val_bec_mae: 0.088573
+2025-04-01 01:18:46.492 INFO: val_bec_rmse: 0.157245
+2025-04-01 01:23:21.171 INFO: ##### Step: 1 Learning rate: 0.0002 #####
+2025-04-01 01:23:21.172 INFO: Epoch 2, Train Loss: 2019.4187, Val Loss: 1729.9203
+2025-04-01 01:23:21.172 INFO: train_e/atom_mae: 0.001034
+2025-04-01 01:23:21.173 INFO: train_e/atom_rmse: 0.001278
+2025-04-01 01:23:21.173 INFO: train_f_mae: 0.041099
+2025-04-01 01:23:21.173 INFO: train_f_rmse: 0.055818
+2025-04-01 01:23:21.174 INFO: train_bec_mae: 0.084870
+2025-04-01 01:23:21.174 INFO: train_bec_rmse: 0.148709
+2025-04-01 01:23:21.175 INFO: val_e/atom_mae: 0.000942
+2025-04-01 01:23:21.175 INFO: val_e/atom_rmse: 0.001179
+2025-04-01 01:23:21.175 INFO: val_f_mae: 0.043170
+2025-04-01 01:23:21.175 INFO: val_f_rmse: 0.079098
+2025-04-01 01:23:21.175 INFO: val_bec_mae: 0.082780
+2025-04-01 01:23:21.176 INFO: val_bec_rmse: 0.143898
+2025-04-01 01:27:56.499 INFO: ##### Step: 2 Learning rate: 0.0002 #####
+2025-04-01 01:27:56.500 INFO: Epoch 3, Train Loss: 1140.3958, Val Loss: 625.6356
+2025-04-01 01:27:56.500 INFO: train_e/atom_mae: 0.000753
+2025-04-01 01:27:56.500 INFO: train_e/atom_rmse: 0.000944
+2025-04-01 01:27:56.501 INFO: train_f_mae: 0.036383
+2025-04-01 01:27:56.501 INFO: train_f_rmse: 0.050184
+2025-04-01 01:27:56.502 INFO: train_bec_mae: 0.081050
+2025-04-01 01:27:56.502 INFO: train_bec_rmse: 0.139797
+2025-04-01 01:27:56.502 INFO: val_e/atom_mae: 0.000531
+2025-04-01 01:27:56.502 INFO: val_e/atom_rmse: 0.000669
+2025-04-01 01:27:56.503 INFO: val_f_mae: 0.040471
+2025-04-01 01:27:56.503 INFO: val_f_rmse: 0.076939
+2025-04-01 01:27:56.503 INFO: val_bec_mae: 0.080997
+2025-04-01 01:27:56.503 INFO: val_bec_rmse: 0.139577
+2025-04-01 01:32:31.621 INFO: ##### Step: 3 Learning rate: 0.0002 #####
+2025-04-01 01:32:31.621 INFO: Epoch 4, Train Loss: 980.3858, Val Loss: 657.7054
+2025-04-01 01:32:31.622 INFO: train_e/atom_mae: 0.000676
+2025-04-01 01:32:31.622 INFO: train_e/atom_rmse: 0.000872
+2025-04-01 01:32:31.622 INFO: train_f_mae: 0.034573
+2025-04-01 01:32:31.623 INFO: train_f_rmse: 0.048549
+2025-04-01 01:32:31.623 INFO: train_bec_mae: 0.078901
+2025-04-01 01:32:31.623 INFO: train_bec_rmse: 0.134619
+2025-04-01 01:32:31.624 INFO: val_e/atom_mae: 0.000589
+2025-04-01 01:32:31.624 INFO: val_e/atom_rmse: 0.000695
+2025-04-01 01:32:31.624 INFO: val_f_mae: 0.038236
+2025-04-01 01:32:31.624 INFO: val_f_rmse: 0.075376
+2025-04-01 01:32:31.625 INFO: val_bec_mae: 0.078734
+2025-04-01 01:32:31.625 INFO: val_bec_rmse: 0.133688
+2025-04-01 01:37:06.573 INFO: ##### Step: 4 Learning rate: 0.0002 #####
+2025-04-01 01:37:06.575 INFO: Epoch 5, Train Loss: 993.9726, Val Loss: 823.7183
+2025-04-01 01:37:06.575 INFO: train_e/atom_mae: 0.000691
+2025-04-01 01:37:06.575 INFO: train_e/atom_rmse: 0.000883
+2025-04-01 01:37:06.576 INFO: train_f_mae: 0.033199
+2025-04-01 01:37:06.576 INFO: train_f_rmse: 0.047009
+2025-04-01 01:37:06.576 INFO: train_bec_mae: 0.076565
+2025-04-01 01:37:06.577 INFO: train_bec_rmse: 0.128569
+2025-04-01 01:37:06.577 INFO: val_e/atom_mae: 0.000687
+2025-04-01 01:37:06.577 INFO: val_e/atom_rmse: 0.000794
+2025-04-01 01:37:06.578 INFO: val_f_mae: 0.037790
+2025-04-01 01:37:06.578 INFO: val_f_rmse: 0.075024
+2025-04-01 01:37:06.578 INFO: val_bec_mae: 0.076750
+2025-04-01 01:37:06.578 INFO: val_bec_rmse: 0.128362
+2025-04-01 01:41:41.994 INFO: ##### Step: 5 Learning rate: 0.0002 #####
+2025-04-01 01:41:41.995 INFO: Epoch 6, Train Loss: 1092.3032, Val Loss: 447.8450
+2025-04-01 01:41:41.995 INFO: train_e/atom_mae: 0.000760
+2025-04-01 01:41:41.995 INFO: train_e/atom_rmse: 0.000932
+2025-04-01 01:41:41.996 INFO: train_f_mae: 0.032648
+2025-04-01 01:41:41.996 INFO: train_f_rmse: 0.046228
+2025-04-01 01:41:41.997 INFO: train_bec_mae: 0.074924
+2025-04-01 01:41:41.997 INFO: train_bec_rmse: 0.124418
+2025-04-01 01:41:41.998 INFO: val_e/atom_mae: 0.000444
+2025-04-01 01:41:41.998 INFO: val_e/atom_rmse: 0.000557
+2025-04-01 01:41:41.998 INFO: val_f_mae: 0.037518
+2025-04-01 01:41:41.998 INFO: val_f_rmse: 0.074962
+2025-04-01 01:41:41.998 INFO: val_bec_mae: 0.075772
+2025-04-01 01:41:41.998 INFO: val_bec_rmse: 0.126393
+2025-04-01 01:46:17.592 INFO: ##### Step: 6 Learning rate: 0.0002 #####
+2025-04-01 01:46:17.595 INFO: Epoch 7, Train Loss: 1493.2763, Val Loss: 425.8506
+2025-04-01 01:46:17.595 INFO: train_e/atom_mae: 0.000880
+2025-04-01 01:46:17.595 INFO: train_e/atom_rmse: 0.001102
+2025-04-01 01:46:17.596 INFO: train_f_mae: 0.032143
+2025-04-01 01:46:17.596 INFO: train_f_rmse: 0.045451
+2025-04-01 01:46:17.597 INFO: train_bec_mae: 0.074096
+2025-04-01 01:46:17.597 INFO: train_bec_rmse: 0.122421
+2025-04-01 01:46:17.598 INFO: val_e/atom_mae: 0.000434
+2025-04-01 01:46:17.598 INFO: val_e/atom_rmse: 0.000542
+2025-04-01 01:46:17.598 INFO: val_f_mae: 0.037260
+2025-04-01 01:46:17.598 INFO: val_f_rmse: 0.074670
+2025-04-01 01:46:17.598 INFO: val_bec_mae: 0.075023
+2025-04-01 01:46:17.598 INFO: val_bec_rmse: 0.124556
+2025-04-01 01:50:52.939 INFO: ##### Step: 7 Learning rate: 0.0002 #####
+2025-04-01 01:50:52.940 INFO: Epoch 8, Train Loss: 950.8918, Val Loss: 373.8672
+2025-04-01 01:50:52.940 INFO: train_e/atom_mae: 0.000686
+2025-04-01 01:50:52.940 INFO: train_e/atom_rmse: 0.000867
+2025-04-01 01:50:52.941 INFO: train_f_mae: 0.031345
+2025-04-01 01:50:52.941 INFO: train_f_rmse: 0.044408
+2025-04-01 01:50:52.942 INFO: train_bec_mae: 0.072681
+2025-04-01 01:50:52.942 INFO: train_bec_rmse: 0.119356
+2025-04-01 01:50:52.942 INFO: val_e/atom_mae: 0.000412
+2025-04-01 01:50:52.942 INFO: val_e/atom_rmse: 0.000503
+2025-04-01 01:50:52.943 INFO: val_f_mae: 0.036351
+2025-04-01 01:50:52.943 INFO: val_f_rmse: 0.073954
+2025-04-01 01:50:52.943 INFO: val_bec_mae: 0.073585
+2025-04-01 01:50:52.943 INFO: val_bec_rmse: 0.121422
+2025-04-01 01:55:29.025 INFO: ##### Step: 8 Learning rate: 0.0002 #####
+2025-04-01 01:55:29.026 INFO: Epoch 9, Train Loss: 1070.0393, Val Loss: 404.7005
+2025-04-01 01:55:29.027 INFO: train_e/atom_mae: 0.000728
+2025-04-01 01:55:29.027 INFO: train_e/atom_rmse: 0.000926
+2025-04-01 01:55:29.027 INFO: train_f_mae: 0.031078
+2025-04-01 01:55:29.028 INFO: train_f_rmse: 0.043811
+2025-04-01 01:55:29.028 INFO: train_bec_mae: 0.071352
+2025-04-01 01:55:29.028 INFO: train_bec_rmse: 0.115942
+2025-04-01 01:55:29.029 INFO: val_e/atom_mae: 0.000421
+2025-04-01 01:55:29.029 INFO: val_e/atom_rmse: 0.000532
+2025-04-01 01:55:29.029 INFO: val_f_mae: 0.036152
+2025-04-01 01:55:29.029 INFO: val_f_rmse: 0.073588
+2025-04-01 01:55:29.030 INFO: val_bec_mae: 0.072128
+2025-04-01 01:55:29.030 INFO: val_bec_rmse: 0.117730
+2025-04-01 02:00:05.011 INFO: ##### Step: 9 Learning rate: 0.0002 #####
+2025-04-01 02:00:05.012 INFO: Epoch 10, Train Loss: 901.9136, Val Loss: 351.6821
+2025-04-01 02:00:05.012 INFO: train_e/atom_mae: 0.000688
+2025-04-01 02:00:05.012 INFO: train_e/atom_rmse: 0.000847
+2025-04-01 02:00:05.013 INFO: train_f_mae: 0.031116
+2025-04-01 02:00:05.013 INFO: train_f_rmse: 0.043851
+2025-04-01 02:00:05.014 INFO: train_bec_mae: 0.070034
+2025-04-01 02:00:05.014 INFO: train_bec_rmse: 0.112288
+2025-04-01 02:00:05.014 INFO: val_e/atom_mae: 0.000377
+2025-04-01 02:00:05.014 INFO: val_e/atom_rmse: 0.000491
+2025-04-01 02:00:05.015 INFO: val_f_mae: 0.036129
+2025-04-01 02:00:05.015 INFO: val_f_rmse: 0.073557
+2025-04-01 02:00:05.015 INFO: val_bec_mae: 0.070979
+2025-04-01 02:00:05.015 INFO: val_bec_rmse: 0.114511
+2025-04-01 02:04:41.041 INFO: ##### Step: 10 Learning rate: 0.0002 #####
+2025-04-01 02:04:41.042 INFO: Epoch 11, Train Loss: 828.5583, Val Loss: 362.1847
+2025-04-01 02:04:41.042 INFO: train_e/atom_mae: 0.000636
+2025-04-01 02:04:41.042 INFO: train_e/atom_rmse: 0.000811
+2025-04-01 02:04:41.043 INFO: train_f_mae: 0.031089
+2025-04-01 02:04:41.043 INFO: train_f_rmse: 0.044394
+2025-04-01 02:04:41.044 INFO: train_bec_mae: 0.068571
+2025-04-01 02:04:41.044 INFO: train_bec_rmse: 0.109636
+2025-04-01 02:04:41.044 INFO: val_e/atom_mae: 0.000381
+2025-04-01 02:04:41.045 INFO: val_e/atom_rmse: 0.000502
+2025-04-01 02:04:41.045 INFO: val_f_mae: 0.036120
+2025-04-01 02:04:41.045 INFO: val_f_rmse: 0.073871
+2025-04-01 02:04:41.045 INFO: val_bec_mae: 0.069568
+2025-04-01 02:04:41.045 INFO: val_bec_rmse: 0.111733
+2025-04-01 02:09:16.361 INFO: ##### Step: 11 Learning rate: 0.0002 #####
+2025-04-01 02:09:16.362 INFO: Epoch 12, Train Loss: 1043.7280, Val Loss: 317.8275
+2025-04-01 02:09:16.363 INFO: train_e/atom_mae: 0.000703
+2025-04-01 02:09:16.363 INFO: train_e/atom_rmse: 0.000919
+2025-04-01 02:09:16.363 INFO: train_f_mae: 0.030310
+2025-04-01 02:09:16.364 INFO: train_f_rmse: 0.042954
+2025-04-01 02:09:16.364 INFO: train_bec_mae: 0.067354
+2025-04-01 02:09:16.364 INFO: train_bec_rmse: 0.107064
+2025-04-01 02:09:16.365 INFO: val_e/atom_mae: 0.000379
+2025-04-01 02:09:16.365 INFO: val_e/atom_rmse: 0.000466
+2025-04-01 02:09:16.365 INFO: val_f_mae: 0.035348
+2025-04-01 02:09:16.366 INFO: val_f_rmse: 0.073059
+2025-04-01 02:09:16.366 INFO: val_bec_mae: 0.068149
+2025-04-01 02:09:16.366 INFO: val_bec_rmse: 0.108750
+2025-04-01 02:13:51.696 INFO: ##### Step: 12 Learning rate: 0.0002 #####
+2025-04-01 02:13:51.697 INFO: Epoch 13, Train Loss: 1489.4785, Val Loss: 316.5320
+2025-04-01 02:13:51.697 INFO: train_e/atom_mae: 0.000881
+2025-04-01 02:13:51.698 INFO: train_e/atom_rmse: 0.001109
+2025-04-01 02:13:51.698 INFO: train_f_mae: 0.030387
+2025-04-01 02:13:51.698 INFO: train_f_rmse: 0.043128
+2025-04-01 02:13:51.699 INFO: train_bec_mae: 0.065578
+2025-04-01 02:13:51.699 INFO: train_bec_rmse: 0.103618
+2025-04-01 02:13:51.700 INFO: val_e/atom_mae: 0.000353
+2025-04-01 02:13:51.700 INFO: val_e/atom_rmse: 0.000468
+2025-04-01 02:13:51.700 INFO: val_f_mae: 0.035475
+2025-04-01 02:13:51.700 INFO: val_f_rmse: 0.073248
+2025-04-01 02:13:51.700 INFO: val_bec_mae: 0.066492
+2025-04-01 02:13:51.701 INFO: val_bec_rmse: 0.105429
+2025-04-01 02:18:27.169 INFO: ##### Step: 13 Learning rate: 0.0002 #####
+2025-04-01 02:18:27.170 INFO: Epoch 14, Train Loss: 642.1631, Val Loss: 316.6163
+2025-04-01 02:18:27.170 INFO: train_e/atom_mae: 0.000574
+2025-04-01 02:18:27.170 INFO: train_e/atom_rmse: 0.000711
+2025-04-01 02:18:27.171 INFO: train_f_mae: 0.030547
+2025-04-01 02:18:27.171 INFO: train_f_rmse: 0.043447
+2025-04-01 02:18:27.171 INFO: train_bec_mae: 0.064229
+2025-04-01 02:18:27.172 INFO: train_bec_rmse: 0.100811
+2025-04-01 02:18:27.172 INFO: val_e/atom_mae: 0.000359
+2025-04-01 02:18:27.172 INFO: val_e/atom_rmse: 0.000471
+2025-04-01 02:18:27.173 INFO: val_f_mae: 0.035491
+2025-04-01 02:18:27.173 INFO: val_f_rmse: 0.073253
+2025-04-01 02:18:27.173 INFO: val_bec_mae: 0.065150
+2025-04-01 02:18:27.173 INFO: val_bec_rmse: 0.102695
+2025-04-01 02:23:02.975 INFO: ##### Step: 14 Learning rate: 0.0002 #####
+2025-04-01 02:23:02.979 INFO: Epoch 15, Train Loss: 582.7709, Val Loss: 309.8156
+2025-04-01 02:23:02.979 INFO: train_e/atom_mae: 0.000535
+2025-04-01 02:23:02.979 INFO: train_e/atom_rmse: 0.000676
+2025-04-01 02:23:02.980 INFO: train_f_mae: 0.030187
+2025-04-01 02:23:02.980 INFO: train_f_rmse: 0.042673
+2025-04-01 02:23:02.981 INFO: train_bec_mae: 0.062455
+2025-04-01 02:23:02.981 INFO: train_bec_rmse: 0.097253
+2025-04-01 02:23:02.982 INFO: val_e/atom_mae: 0.000379
+2025-04-01 02:23:02.982 INFO: val_e/atom_rmse: 0.000468
+2025-04-01 02:23:02.982 INFO: val_f_mae: 0.034898
+2025-04-01 02:23:02.982 INFO: val_f_rmse: 0.072626
+2025-04-01 02:23:02.982 INFO: val_bec_mae: 0.063292
+2025-04-01 02:23:02.983 INFO: val_bec_rmse: 0.098920
+2025-04-01 02:27:38.734 INFO: ##### Step: 15 Learning rate: 0.0002 #####
+2025-04-01 02:27:38.734 INFO: Epoch 16, Train Loss: 627.8689, Val Loss: 299.4728
+2025-04-01 02:27:38.735 INFO: train_e/atom_mae: 0.000553
+2025-04-01 02:27:38.735 INFO: train_e/atom_rmse: 0.000706
+2025-04-01 02:27:38.735 INFO: train_f_mae: 0.029426
+2025-04-01 02:27:38.736 INFO: train_f_rmse: 0.041492
+2025-04-01 02:27:38.736 INFO: train_bec_mae: 0.061071
+2025-04-01 02:27:38.736 INFO: train_bec_rmse: 0.094847
+2025-04-01 02:27:38.737 INFO: val_e/atom_mae: 0.000370
+2025-04-01 02:27:38.737 INFO: val_e/atom_rmse: 0.000461
+2025-04-01 02:27:38.737 INFO: val_f_mae: 0.034584
+2025-04-01 02:27:38.738 INFO: val_f_rmse: 0.072274
+2025-04-01 02:27:38.738 INFO: val_bec_mae: 0.062053
+2025-04-01 02:27:38.738 INFO: val_bec_rmse: 0.096636
+2025-04-01 02:32:14.343 INFO: ##### Step: 16 Learning rate: 0.0002 #####
+2025-04-01 02:32:14.344 INFO: Epoch 17, Train Loss: 783.2915, Val Loss: 293.6558
+2025-04-01 02:32:14.344 INFO: train_e/atom_mae: 0.000628
+2025-04-01 02:32:14.344 INFO: train_e/atom_rmse: 0.000795
+2025-04-01 02:32:14.345 INFO: train_f_mae: 0.029617
+2025-04-01 02:32:14.345 INFO: train_f_rmse: 0.041963
+2025-04-01 02:32:14.346 INFO: train_bec_mae: 0.060899
+2025-04-01 02:32:14.346 INFO: train_bec_rmse: 0.094171
+2025-04-01 02:32:14.346 INFO: val_e/atom_mae: 0.000319
+2025-04-01 02:32:14.347 INFO: val_e/atom_rmse: 0.000456
+2025-04-01 02:32:14.347 INFO: val_f_mae: 0.034643
+2025-04-01 02:32:14.347 INFO: val_f_rmse: 0.072423
+2025-04-01 02:32:14.347 INFO: val_bec_mae: 0.061683
+2025-04-01 02:32:14.347 INFO: val_bec_rmse: 0.095614
+2025-04-01 02:36:49.900 INFO: ##### Step: 17 Learning rate: 0.0002 #####
+2025-04-01 02:36:49.901 INFO: Epoch 18, Train Loss: 659.3926, Val Loss: 284.9621
+2025-04-01 02:36:49.901 INFO: train_e/atom_mae: 0.000598
+2025-04-01 02:36:49.901 INFO: train_e/atom_rmse: 0.000726
+2025-04-01 02:36:49.902 INFO: train_f_mae: 0.029639
+2025-04-01 02:36:49.902 INFO: train_f_rmse: 0.041999
+2025-04-01 02:36:49.903 INFO: train_bec_mae: 0.060079
+2025-04-01 02:36:49.903 INFO: train_bec_rmse: 0.092506
+2025-04-01 02:36:49.903 INFO: val_e/atom_mae: 0.000335
+2025-04-01 02:36:49.903 INFO: val_e/atom_rmse: 0.000450
+2025-04-01 02:36:49.904 INFO: val_f_mae: 0.034913
+2025-04-01 02:36:49.904 INFO: val_f_rmse: 0.072685
+2025-04-01 02:36:49.904 INFO: val_bec_mae: 0.060778
+2025-04-01 02:36:49.904 INFO: val_bec_rmse: 0.093753
+2025-04-01 02:41:25.746 INFO: ##### Step: 18 Learning rate: 0.0002 #####
+2025-04-01 02:41:25.747 INFO: Epoch 19, Train Loss: 872.6248, Val Loss: 283.8842
+2025-04-01 02:41:25.747 INFO: train_e/atom_mae: 0.000666
+2025-04-01 02:41:25.747 INFO: train_e/atom_rmse: 0.000844
+2025-04-01 02:41:25.748 INFO: train_f_mae: 0.029674
+2025-04-01 02:41:25.748 INFO: train_f_rmse: 0.042362
+2025-04-01 02:41:25.749 INFO: train_bec_mae: 0.058117
+2025-04-01 02:41:25.749 INFO: train_bec_rmse: 0.089099
+2025-04-01 02:41:25.750 INFO: val_e/atom_mae: 0.000329
+2025-04-01 02:41:25.750 INFO: val_e/atom_rmse: 0.000451
+2025-04-01 02:41:25.750 INFO: val_f_mae: 0.034894
+2025-04-01 02:41:25.750 INFO: val_f_rmse: 0.072848
+2025-04-01 02:41:25.751 INFO: val_bec_mae: 0.059230
+2025-04-01 02:41:25.751 INFO: val_bec_rmse: 0.090991
+2025-04-01 02:46:02.023 INFO: ##### Step: 19 Learning rate: 0.0002 #####
+2025-04-01 02:46:02.025 INFO: Epoch 20, Train Loss: 498.9873, Val Loss: 276.8112
+2025-04-01 02:46:02.025 INFO: train_e/atom_mae: 0.000488
+2025-04-01 02:46:02.025 INFO: train_e/atom_rmse: 0.000626
+2025-04-01 02:46:02.026 INFO: train_f_mae: 0.029289
+2025-04-01 02:46:02.026 INFO: train_f_rmse: 0.041543
+2025-04-01 02:46:02.027 INFO: train_bec_mae: 0.058508
+2025-04-01 02:46:02.027 INFO: train_bec_rmse: 0.089198
+2025-04-01 02:46:02.027 INFO: val_e/atom_mae: 0.000322
+2025-04-01 02:46:02.027 INFO: val_e/atom_rmse: 0.000445
+2025-04-01 02:46:02.028 INFO: val_f_mae: 0.034369
+2025-04-01 02:46:02.028 INFO: val_f_rmse: 0.072195
+2025-04-01 02:46:02.028 INFO: val_bec_mae: 0.059306
+2025-04-01 02:46:02.028 INFO: val_bec_rmse: 0.090568
